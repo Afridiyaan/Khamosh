@@ -399,7 +399,7 @@ logo = ("""\033[1;34m
                                                \033
 __________________KHAMOSH______________________
  
-WELCOME TO KHAMOSH TOL EJNOY ALL
+WELCOME TO KHAMOSH TOL ENJOY ALL
 
 __________________KHAMOSH______________________\033[1;37m""")
 
